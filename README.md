@@ -1,12 +1,11 @@
-<!-- Profile Image -->
-<div style="width:200px; height: 200px; border-radius : 50%; object-fill: cover; margin: auto">
+<p align="center">
   <img 
     src="https://raw.githubusercontent.com/Abdul-Rehman-Andani/Abdul-Rehman-Andani/main/assets/profile.jpeg" 
     alt="Abdul Rehman" 
     width="200" 
     height="200" 
     style="border-radius: 50%; object-fit: cover;" />
-</div>
+</p>
 
 
 <!-- Name and Title -->

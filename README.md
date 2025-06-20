@@ -1,6 +1,7 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="assets/profile.jpg" alt="Abdul Rehman" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Abdul-Rehman-Andani/Abdul-Rehman-Andani/main/assets/profile.jpg" alt="Abdul Rehman" width="150" height="150" style="border-radius: 50%;" />
+
 </p>
 
 <!-- Name and Title -->

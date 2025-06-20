@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Abdul-Rehman-Andani/Abdul-Rehman-Andani/main/assets/profile.jpeg" 
+    src="https://raw.githubusercontent.com/Abdul-Rehman-Andani/Abdul-Rehman-Andani/main/assets/profile.png" 
     alt="Abdul Rehman" 
     width="200" 
     height="200" 

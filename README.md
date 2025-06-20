@@ -1,6 +1,13 @@
+<!-- Profile Image -->
+<p align="center">
+  <img src="assets/profile.jpg" alt="Abdul Rehman" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
+<!-- Name and Title -->
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+<!-- Introduction -->
 <p align="center">
   I'm currently pursuing my Bachelor's degree in Computer Science from SZABIST University.  
   I'm passionate about building modern full-stack web applications using technologies like React, Node.js, MongoDB, and Express.  
@@ -9,6 +16,7 @@
   Whether it's frontend design or backend logic, I love solving real-world problems with code and turning ideas into reality.
 </p>
 
+<!-- Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <span style="margin: 16px;">

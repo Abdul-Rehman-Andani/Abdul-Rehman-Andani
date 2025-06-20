@@ -1,5 +1,5 @@
 <!-- Profile Image -->
-<div style="width:200px; height: 200px; border-radius : 50%; object-fill: cover;">
+<div style="width:200px; height: 200px; border-radius : 50%; object-fill: cover; margin: auto">
   <img 
     src="https://raw.githubusercontent.com/Abdul-Rehman-Andani/Abdul-Rehman-Andani/main/assets/profile.jpeg" 
     alt="Abdul Rehman" 

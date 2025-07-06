@@ -1,13 +1,3 @@
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Abdul-Rehman-Andani/Abdul-Rehman-Andani/main/assets/profile.png" 
-    alt="Abdul Rehman" 
-    width="200" 
-    height="200" 
-    style="border-radius: 50%; object-fit: cover;" />
-</p>
-
-
 <!-- Name and Title -->
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
